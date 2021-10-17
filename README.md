@@ -1,3 +1,5 @@
+![](https://github.com/Aparna20071996/Aparna20071996/blob/main/APARNA%20KESHARWANI.png)
+
 <h1 align="center">Hi 👋, I'm APARNA KESHARWANI</h1>
 <h3 align="center">A passionate DATA SCIENCE ENTHUSIAST from India</h3>
 
