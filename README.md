@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/aparnakesharwa2" target="blank"><img src="https://img.shields.io/twitter/follow/aparnakesharwa2?logo=twitter&style=for-the-badge" alt="aparnakesharwa2" /></a> </p>
 
-- 🕸️ My Website **aparna20071996.github.io/aparnakesharwani.github.io/**
+- 🕸️ My Website **https://aparna20071996.github.io/aparnakesharwani.github.io/**
 
 - 🔭 I’m currently working on **Machine Learning Algorithms**
 
