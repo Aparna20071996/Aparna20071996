@@ -11,17 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/aparnakesharwa2" target="blank"><img src="https://img.shields.io/twitter/follow/aparnakesharwa2?logo=twitter&style=for-the-badge" alt="aparnakesharwa2" /></a> </p>
 
+- 🕸️ My Website **aparna20071996.github.io/aparnakesharwani.github.io/**
+
 - 🔭 I’m currently working on **Machine Learning Algorithms**
 
 - 🌱 I’m currently learning **Numpy, Pandas, ML,DL, Artificial Intelligence**
 
-- 📝 I regularly write articles on [Python Projects](Python Projects)
+- 📝 I regularly write articles on **Python Projects**
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **aparnakesharwani7@gmail.com**
 
-- ⚡ Fun fact **I have a good sarcasm and can perform anything better than the person who taught me a certain thing**
+- ⚡ Fun fact **I have a good sarcasm and can perform anything better than the person who taught me that certain thing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
